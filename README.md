@@ -1,0 +1,1 @@
+Příkladová ukázka Automatizovaného UI testování přes selenium. 
